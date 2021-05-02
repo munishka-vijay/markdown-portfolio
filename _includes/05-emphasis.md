@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am **Munishka Vijayvergiya** and my hobbies are *Dancing, reading and Coding*. I also enjoy *bathroom singing*.
