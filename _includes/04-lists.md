@@ -1,4 +1,4 @@
-*Mona
-*Manoj
-  *Munishka
-  *Mitisha
+* Mona
+* Manoj
+  * Munishka
+  * Mitisha
